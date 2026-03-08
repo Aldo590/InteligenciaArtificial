@@ -3,6 +3,7 @@
 print(True > False)
 print(True < False)
 
+#True, False
 
 #2.2.6   LAB   Literales de Python - Cadenas
 
